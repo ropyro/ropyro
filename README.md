@@ -1,9 +1,26 @@
-<h1 align="center">Hi 👋, I'm Ronin</h1>
-<h3 align="center">A CS Student passionate about Java development for Minecraft</h3>
+# 👋 Hi, I’m Ronin
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Computer Science student with a strong foundation in **Java**, primarily through **Minecraft plugin and mod development**. I enjoy building system-driven features like progression, economies, and multiplayer mechanics.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+Currently expanding into **JavaScript and React** to broaden my skill set beyond game-focused development.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Java** (primary)
+- Minecraft (Spigot / Paper APIs)
+- **C#** (exploratory)
+- **JavaScript & React** (learning)
+- Git, Maven / Gradle
+
+---
+
+## 📌 Projects
+
+Most repositories focus on:
+- Minecraft plugins and mods  
+- Backend-style systems and game logic  
+- Experimental projects for learning and iteration  
+
+Web and full-stack projects coming soon.
