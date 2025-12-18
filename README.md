@@ -10,7 +10,6 @@ Currently expanding into **JavaScript and React** to broaden my skill set beyond
 
 - **Java** (primary)
 - Minecraft (Spigot / Paper APIs)
-- **C#** (exploratory)
 - **JavaScript & React** (learning)
 - Git, Maven / Gradle
 
