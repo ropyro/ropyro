@@ -2,7 +2,7 @@
 
 Computer Science student with a strong foundation in **Java**, primarily through **Minecraft plugin and mod development**. I enjoy building system-driven features like progression, economies, and multiplayer mechanics.
 
-Currently expanding into **JavaScript and React** to broaden my skill set beyond game-focused development.
+Currently reading <a href="https://doc.rust-lang.org/book/">The Rust Programming Language</a> to learn more about memory safety and systems architecture. 
 
 ---
 
@@ -22,4 +22,4 @@ Most repositories focus on:
 - Backend-style systems and game logic  
 - Experimental projects for learning and iteration  
 
-Web and full-stack projects coming soon.
+CHIP-8 Emulator Project in Rust coming soon...
