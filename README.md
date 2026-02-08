@@ -10,7 +10,7 @@ Currently reading <a href="https://doc.rust-lang.org/book/">The Rust Programming
 
 - **Java** (primary)
 - Minecraft (Spigot / Paper APIs)
-- **JavaScript & React** (learning)
+- **Rust** (learning)
 - Git, Maven / Gradle
 
 ---
