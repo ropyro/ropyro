@@ -2,7 +2,7 @@
 
 Computer Science student with a strong foundation in **Java**, primarily through **Minecraft plugin and mod development**. I enjoy building system-driven features like progression, economies, and multiplayer mechanics.
 
-Currently reading <a href="https://doc.rust-lang.org/book/">The Rust Programming Language</a> to learn more about memory safety and systems architecture. 
+Currently reading <a href="https://doc.rust-lang.org/book/">The Rust Programming Language</a> to become a rustacean & learn more about memory safety and systems architecture. 
 
 ---
 
